@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">preference</string>
+    <string name="login">login</string>
+    <string name="checking">check</string>
+    <string name="password">password</string>
+    <string name="user">user</string>
+    <string name="nom">com.projet.sharedpreferneces.nom</string>
+    <string name="pass">com.projet.sharedpreferneces.pass</string>
+    <string name="checkbox">com.projet.sharedpreferneces.checkbox</string>
+</resources>
